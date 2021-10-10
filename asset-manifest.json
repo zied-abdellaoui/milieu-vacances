@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/milieu-vacances/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/milieu-vacances/static/js/main.f7056469.chunk.js",
+    "main.js.map": "/milieu-vacances/static/js/main.f7056469.chunk.js.map",
+    "runtime-main.js": "/milieu-vacances/static/js/runtime-main.52050383.js",
+    "runtime-main.js.map": "/milieu-vacances/static/js/runtime-main.52050383.js.map",
+    "static/css/2.941c540d.chunk.css": "/milieu-vacances/static/css/2.941c540d.chunk.css",
+    "static/js/2.ee14ee8c.chunk.js": "/milieu-vacances/static/js/2.ee14ee8c.chunk.js",
+    "static/js/2.ee14ee8c.chunk.js.map": "/milieu-vacances/static/js/2.ee14ee8c.chunk.js.map",
+    "static/js/3.07590db1.chunk.js": "/milieu-vacances/static/js/3.07590db1.chunk.js",
+    "static/js/3.07590db1.chunk.js.map": "/milieu-vacances/static/js/3.07590db1.chunk.js.map",
+    "index.html": "/milieu-vacances/index.html",
+    "static/css/2.941c540d.chunk.css.map": "/milieu-vacances/static/css/2.941c540d.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/milieu-vacances/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ee14ee8c.chunk.js.LICENSE.txt": "/milieu-vacances/static/js/2.ee14ee8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52050383.js",
+    "static/css/2.941c540d.chunk.css",
+    "static/js/2.ee14ee8c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f7056469.chunk.js"
+  ]
+}
